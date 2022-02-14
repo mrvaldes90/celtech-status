@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 559,
-    "timeWeek": 559,
-    "timeMonth": 559,
-    "timeYear": 559,
+    "time": 653,
+    "timeDay": 653,
+    "timeWeek": 653,
+    "timeMonth": 653,
+    "timeYear": 653,
     "dailyMinutesDown": {}
   },
   {
@@ -28,51 +28,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 510,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "time": 451,
+    "timeDay": 451,
+    "timeWeek": 451,
+    "timeMonth": 451,
+    "timeYear": 451,
     "dailyMinutesDown": {}
   },
   {
     "name": "Altoque",
-    "url": "https://altoque.celtech.com.gt/",
+    "url": "https://altoque.celtech.com.gt/index.xhtml",
     "icon": "https://favicons.githubusercontent.com/altoque.celtech.com.gt",
     "slug": "altoque",
-    "status": "down",
-    "uptime": "8.12%",
-    "uptimeDay": "8.12%",
-    "uptimeWeek": "8.12%",
-    "uptimeMonth": "8.12%",
-    "uptimeYear": "8.12%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-02-14": 0
-    }
-  },
-  {
-    "name": "FEL",
-    "url": "http://fel.celtech.com.gt/",
-    "icon": "https://favicons.githubusercontent.com/fel.celtech.com.gt",
-    "slug": "fel",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-14": 288
+    }
+  },
+  {
+    "name": "FEL",
+    "url": "https://fel.celtech.com.gt/index.jsp",
+    "icon": "https://favicons.githubusercontent.com/fel.celtech.com.gt",
+    "slug": "fel",
+    "status": "down",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 300,
     "timeDay": 300,
     "timeWeek": 300,
     "timeMonth": 300,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2022-02-14": 0
+      "2022-02-14": 288
     }
   }
 ]
