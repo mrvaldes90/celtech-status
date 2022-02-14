@@ -8,9 +8,9 @@ sites:
   - name: Pretups
     url: https://pretups.celtech.com.gt/
   - name: Altoque
-    url: https://altoque.celtech.com.gt/
+    url: https://altoque.celtech.com.gt/index.xhtml
   - name: FEL
-    url: http://fel.celtech.com.gt/
+    url: https://fel.celtech.com.gt/index.jsp
 
 assignees:
 - atiniguar
