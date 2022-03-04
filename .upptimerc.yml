@@ -8,7 +8,7 @@ sites:
   - name: Pretups
     url: https://pretups.celtech.com.gt/
   - name: Altoque
-    url: https://altoque.celtech.com.gt/index.xhtml
+    url: https://altoque.celtech.com.gt/
   - name: FEL
     url: https://fel.celtech.com.gt/index.jsp
 
